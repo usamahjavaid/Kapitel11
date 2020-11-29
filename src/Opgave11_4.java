@@ -13,7 +13,7 @@ public class Opgave11_4 {
 
     public static void main(String[] args) {
 
-        
+
         //Create a scanner
         Scanner input = new Scanner(System.in);
 

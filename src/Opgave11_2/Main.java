@@ -7,7 +7,7 @@ public class Main {
         Student student = new Student("Mikkel", "cumvej 14",
                 "13131313", "Jeghaderjer@hotmail.com", 1);
         Employee employee = new Employee("Frederik", "Cumvej15",
-                "69420696", "JegelskerSæd@hotmail.com", "Salesman ", 30000);
+                "69420696", "JegelskerSpil@hotmail.com", "Salesman ", 30000);
         Faculty faculty = new Faculty("Enemark", "cumvej11",
                 "8548943", "Loveme@hotmail.dk", "memeMaker",
                 15000, "8-16","Senior" );
